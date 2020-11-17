@@ -1,0 +1,16 @@
+{
+  "name": "tdd_painter_decorator_lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "room.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  },
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
